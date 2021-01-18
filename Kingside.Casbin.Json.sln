@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kingside.Casbin.Json", "Kingside.Casbin.Json\Kingside.Casbin.Json.csproj", "{0D139796-5616-48EC-A133-9DB4E9089304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kingside.Casbin.Json.Test", "Kingside.Casbin.Json.Test\Kingside.Casbin.Json.Test.csproj", "{022844B2-CB61-4DF2-969E-A3263CE4C954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D139796-5616-48EC-A133-9DB4E9089304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D139796-5616-48EC-A133-9DB4E9089304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D139796-5616-48EC-A133-9DB4E9089304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D139796-5616-48EC-A133-9DB4E9089304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022844B2-CB61-4DF2-969E-A3263CE4C954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022844B2-CB61-4DF2-969E-A3263CE4C954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022844B2-CB61-4DF2-969E-A3263CE4C954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022844B2-CB61-4DF2-969E-A3263CE4C954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59B4AC4-E8F4-4612-BFE9-2DEB3912566F}
+	EndGlobalSection
+EndGlobal
